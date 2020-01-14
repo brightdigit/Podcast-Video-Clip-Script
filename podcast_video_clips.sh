@@ -1,5 +1,5 @@
  #!/bin/bash
-FONT="/Users/leo/Library/Fonts/skyfonts-google/Cardo 700.ttf"
+FONT="/Users/leo/Library/Fonts/skyfonts-google/Oxygen 700.ttf"
 SHOW_NAME="empowerapps.show"
 FCLIP_NAME=${CLIP_NAME//,}
 LOGO_PATH=brightdigit.png
